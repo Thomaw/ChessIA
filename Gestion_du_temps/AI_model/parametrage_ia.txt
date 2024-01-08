@@ -1,0 +1,2 @@
+img = 64 : accuracy : 93.64 %
+img = 128 : accuracy : 100 % au bout de 35 étapes

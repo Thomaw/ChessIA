@@ -1,0 +1,1 @@
+largeur_carre = 95.875

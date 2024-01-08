@@ -1,0 +1,12 @@
+Elements à prendre en compte:		
+		
+Etape 0:		Base de données
+		
+		
+Etape 1:		Notre temps restant 
+		
+		
+Etape 2:		Le nombre de pièces 
+		
+		
+Etape 3:		Le temps adverse 
